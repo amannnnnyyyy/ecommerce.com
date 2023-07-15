@@ -3,13 +3,13 @@
 ---
 ## screenshots
 ### Admin Dashboard
-![dashboard snap](https://github.com/amannnnnyyyy/ecommerce/blob/main/static/screenshots/adminHomepage.png?raw=true)
+![dashboard snap](https://github.com/amannnnnyyyy/ecommerce/main/static/screenshots/adminHomepage.png?raw=true)
 ### Customer Homepage
-![homepage snap](https://github.com/amannnnnyyyy/ecommerce/blob/main/static/screenshots/customerhomepage.png?raw=true)
+![homepage snap](https://github.com/amannnnnyyyy/ecommerce/main/static/screenshots/customerhomepage.png?raw=true)
 ### Cart
-![cart snap](https://github.com/amannnnnyyyy/ecommerce/blob/main/static/screenshots/cart.png?raw=true)
+![cart snap](https://github.com/amannnnnyyyy/ecommerce/blob/static/screenshots/cart.png?raw=true)
 ### Track Orders
-![orders snap](https://github.com/amannnnnyyyy/ecommerce/blob/main/static/screenshots/orderspage.png?raw=true)
+![orders snap](https://github.com/amannnnnyyyy/ecommerce/main/static/screenshots/orderspage.png?raw=true)
 ---
 ## FUNCTIONS
 ## Customer
