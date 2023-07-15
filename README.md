@@ -1,5 +1,5 @@
 # ECOMMERCE
-![developer](Developed%20By%20%3A-Amanuel%Moha-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Amanuel%Moha-red)
 ---
 ## screenshots  
 ### Admin Dashboard
@@ -8,7 +8,7 @@
 ![homepage snap](https://github.com/amannnnnyyyy/ecommerce.com/blob/main/static/screenshots/customerhomepage.png?raw=true)
 ### Cart
 ![cart snap](https://github.com/amannnnnyyyy/ecommerce.com/blob/main/static/screenshots/cart.png?raw=true)
-### Track Orders
+### Payment Page
 ![payment snap](https://github.com/amannnnnyyyy/ecommerce.com/blob/main/static/screenshots/payment.PNG?raw=true)
 ---
 ## FUNCTIONS
