@@ -9,7 +9,7 @@
 ### Cart
 ![cart snap](https://github.com/amannnnnyyyy/ecommerce.com/blob/main/static/screenshots/cart.png?raw=true)
 ### Track Orders
-![orders snap](https://github.com/amannnnnyyyy/ecommerce.com/blob/main/static/screenshots/orderspage.png?raw=true)
+![payment snap](https://github.com/amannnnnyyyy/ecommerce.com/blob/main/static/screenshots/payment.PNG?raw=true)
 ---
 ## FUNCTIONS
 ## Customer
