@@ -1,15 +1,15 @@
 # ECOMMERCE
 ![developer](Developed%20By%20%3A-Amanuel%Moha-red)
 ---
-## screenshots
+## screenshots   https://github.com/amannnnnyyyy/ecommerce.com/blob/main/static/screenshots/adminHomepage.png
 ### Admin Dashboard
-![dashboard snap](https://github.com/amannnnnyyyy/ecommerce/main/static/screenshots/adminHomepage.png?raw=true)
+![dashboard snap](https://github.com/amannnnnyyyy/ecommerce.com/blob/main/static/screenshots/adminHomepage.png)
 ### Customer Homepage
-![homepage snap](https://github.com/amannnnnyyyy/ecommerce/main/static/screenshots/customerhomepage.png?raw=true)
+![homepage snap](https://github.com/amannnnnyyyy/ecommerce.com/blob/main/static/screenshots/customerhomepage.png?raw=true)
 ### Cart
-![cart snap](https://github.com/amannnnnyyyy/ecommerce/blob/static/screenshots/cart.png?raw=true)
+![cart snap](https://github.com/amannnnnyyyy/ecommerce.com/blob/static/screenshots/cart.png?raw=true)
 ### Track Orders
-![orders snap](https://github.com/amannnnnyyyy/ecommerce/main/static/screenshots/orderspage.png?raw=true)
+![orders snap](https://github.com/amannnnnyyyy/ecommerce.com/blob/main/static/screenshots/orderspage.png?raw=true)
 ---
 ## FUNCTIONS
 ## Customer
